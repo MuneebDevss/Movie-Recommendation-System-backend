@@ -1,0 +1,79 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+
+# Essential files
+*.pem
+*.key
+
+# Local development files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# System files
+*.swp
+
+# Debug and profiler files
+*.pid
+*.seed
+
+# IntelliJ project files
+.idea/
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional REPL history
+.node_repl_history
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Ignore any OS files
+.DS_Store
+*.log
+*.bak
+*.swp
+._*
+
+# Miscellaneous
+.vscode/
+.vscode-test/
+.vscode-test-workspace/
